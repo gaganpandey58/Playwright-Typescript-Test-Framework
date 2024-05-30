@@ -1,0 +1,4 @@
+---
+mockStringData:
+  testCaseId: TES-0003
+  scenario: Verify successful registration for new users

@@ -1,0 +1,9 @@
+{
+  "environment": "dev",
+  "app": {
+    "baseUri": "https://web-dev-secure.superbuddytime.com"
+  },
+  "api": {
+    "baseUri": "https://api-dev.superbuddytime.com"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "webNewUserRegistration": {
+    "headers": {
+      "ClientId": "WebPortal",
+      "OrganizationId": "higi",
+      "Content-Type": "application/json"
+    },
+    "endpoint": "/authentication/users",
+    "params": {
+      "some": "value",
+      "another": "data"
+    },
+    "body": "bodyDynamic"
+  },
+  "tripcareGetUserWithUserCode": {
+  "headers": {
+    "accept": "application/json",
+    "Content-Type": "application/json"
+  },
+    "endpoint": "/authentication-service/lgtcUser",
+    "params": {
+      "applicationCode": 5
+    },
+    "body": "bodyDynamic"
+  },
+  "tripcareNewUserRegistration": {
+    "headers": {
+      "accept": "application/json",
+      "Content-Type": "application/json"
+    },
+      "endpoint": "/authentication-service/lgtcUser/signUp",
+      "params": {
+        "bypassVerifyCode": true
+      },
+      "body": "bodyDynamic"
+    }
+}

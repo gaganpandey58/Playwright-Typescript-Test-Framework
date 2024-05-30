@@ -1,0 +1,14 @@
+---
+mockStringData:
+  testCaseId: TES-0004
+  scenario: Verify successful login for registered users
+  emailAddress: vandanakiran+13@gmail.com
+  password: MyTesting123456!!
+---
+mockStringData:
+  testCaseId: TES-0005
+  scenario: Verify correct error message is displayed for invalid password entry
+  emailAddress: vandanakiran+13@gmail.com
+  password: Test112Test112
+mockExpectedText:
+  expectedText1: invalidPasswordErrorMessageTripcare

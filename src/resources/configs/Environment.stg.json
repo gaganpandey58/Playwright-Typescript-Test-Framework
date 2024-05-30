@@ -1,0 +1,9 @@
+{
+  "environment": "stg",
+  "app": {
+    "baseUri": "https://web-stg-secure.superbuddytime.com"
+  },
+  "api": {
+    "baseUri": "https://api-stg.superbuddytime.com"
+  }
+}

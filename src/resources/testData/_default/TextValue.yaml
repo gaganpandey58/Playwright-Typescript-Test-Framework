@@ -1,0 +1,11 @@
+emailNotRecognizedError: |-
+  Email not recognized
+
+invalidEmailPhnError: |-
+  Enter a valid email address
+
+invalidPasswordErrorMessage: |-
+  Wrong password
+
+invalidPasswordErrorMessageTripcare: |-
+  Login failed. Too many failed attempts will put a temporary lock on your account.

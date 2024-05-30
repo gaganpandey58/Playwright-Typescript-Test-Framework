@@ -1,0 +1,48 @@
+{
+  "maleUserRegister": {
+    "beganOrientationFlow": true,
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60607",
+    "firstName": "Casey",
+    "lastName": "Test",
+    "email": "randomEmail",
+    "gender": "m",
+    "height": 1.65,
+    "dateOfBirth": "1996-08-08",
+    "address": "2258 w Eve Ave",
+    "countryCode": "",
+    "phoneNumber": "6463211930",
+    "phoneNumberVerified": true,
+    "termsAgreed": {
+      "agreedDatetime": "randomCurrentDateAndTime",
+      "fileName": "termsofuse_v10_07122017"
+    },
+    "privacyAgreed": {
+      "agreedDatetime": "randomCurrentDateAndTime",
+      "fileName": "privacypolicy_v10_10272021"
+    },
+    "publicUserDefaults": {
+      "phoneLoginMethod": "NoDefault"
+    },
+    "password": "test123"
+  },
+  "tripcareUserRegister": {
+    "firstName": "Casey",
+    "lastName": "Test",
+    "email": "randomEmail",
+    "password": "Test112test112@",
+    "verifyPassword":  "Test112test112@",
+    "applicationCode": 5,
+    "skipCognitoSetUp": true
+  },
+  "userRegisterWithDifferentProfileValues": {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "randomEmail",
+    "password": "Test112test112@",
+    "verifyPassword":  "Test112test112@",
+    "applicationCode": 5,
+    "skipCognitoSetUp": true
+  }
+}

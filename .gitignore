@@ -1,0 +1,6 @@
+node_modules/
+test-results/
+output/
+.idea/
+report/
+src/resources/testData/services/global/GlobalDynamicData.json

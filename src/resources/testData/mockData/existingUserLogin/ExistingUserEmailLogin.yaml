@@ -1,0 +1,11 @@
+---
+mockStringData:
+  testCaseId: TES-0001
+  scenario: Verify successful login for registered users
+---
+mockStringData:
+  testCaseId: TES-0002
+  scenario: Verify correct error message is displayed for invalid password entry
+  password: password1234
+mockExpectedText:
+  expectedText1: invalidPasswordErrorMessage
